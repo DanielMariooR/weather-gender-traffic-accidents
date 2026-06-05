@@ -15,10 +15,12 @@ To examine gender differences under varying rainfall conditions, this study appl
 
 #### Rainfall Categories
 
-* No rain (reference group)
-* Light rain
-* Moderate rain
-* Heavy rain
+* No Rain = <1 mm/day (reference group)
+* Light Rain = 1–30 mm/day
+* Moderate Rain = 30–60 mm/day
+* Heavy Rain = >60 mm/day
+
+Reference: Adapted from Taiwan Central Weather Administration rainfall warning criteria.
 
 #### Gender Variable
 
