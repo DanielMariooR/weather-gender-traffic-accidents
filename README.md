@@ -71,3 +71,5 @@ Dry conditions and light rain are associated with marginally higher accident cou
 Male at-fault drivers exhibit consistently higher accident volumes than female drivers across all weather conditions (Estimate = 0.056, p < 0.001, IRR = 1.058), corresponding to approximately 6% higher accident counts.
 
 Light rain is associated with a modest but statistically significant increase in accident counts among male drivers relative to female drivers (Interaction Estimate = 0.014, p = 0.025, IRR = 1.014). In contrast, no significant interaction is observed under heavy rain (p = 0.365), suggesting that the gender difference identified under light rain does not persist during heavy rainfall.
+
+Extra notes for testing.
